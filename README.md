@@ -1,5 +1,14 @@
 A 19 y.o. first year university student (also a former secondary vocational school student) from China.
 
+Blog: https://blog.canyie.top/
+
+Telegram channel: [@CanyieChannel](https://t.me/CanyieChannel)
+
+Discussion Group:
+- QQ Group: 949888394
+- Telegram Group: [@DreamlandFramework](t.me/DreamlandFramework)
+<!-- What are you trying to seek out? -->
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=canyie&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=canyie&layout=compact&langs_count=10&exclude_repo=iQOO-Z1-kernel,canyie.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
