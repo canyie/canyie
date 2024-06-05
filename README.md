@@ -1,14 +1,19 @@
 A 19 y.o. first year university student (also a former secondary vocational school student) from China.
 
-Blog: https://blog.canyie.top/
+<!-- Blog: https://blog.canyie.top/
 
-Telegram channel: [@CanyieChannel](https://t.me/CanyieChannel)
+Telegram channel: [@CanyieChannel](https://t.me/CanyieChannel) -->
 
 Bugs: [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318) in [Android Security Bulletin - June 2024](https://source.android.com/docs/security/bulletin/2024-06-01)
 
+
+(This list may be out of sync. Search "canyie" in [Android acknowledgements](https://source.android.com/docs/security/overview/acknowledgements) for all!)
+
+<!--
 Discussion Group:
 - QQ Group: 949888394
 - Telegram Group: [@DreamlandFramework](t.me/DreamlandFramework)
+-->
 <!-- What are you trying to seek out? -->
 
 Disclaimer: Although I'm a member of LSPosed Team, all repositories hosted by this account are owned by myself. They are maintained by me alone and have no affiliation with the LSPosed team nor are they part of the LSPosed community.
