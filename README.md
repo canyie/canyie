@@ -1,4 +1,4 @@
-A 19 y.o. first year university student (also a former secondary vocational school student) from China.
+A 20 y.o. first year university student (also a former secondary vocational school student) from China.
 
 Blog: https://blog.canyie.top/
 <!-- 
