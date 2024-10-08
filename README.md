@@ -4,7 +4,9 @@ Blog: https://blog.canyie.top/
 <!-- 
 Telegram channel: [@CanyieChannel](https://t.me/CanyieChannel) -->
 
-Bugs: [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318) in [Android Security Bulletin - June 2024](https://source.android.com/docs/security/bulletin/2024-06-01)
+Bugs: 
+- [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318) in [Android Security Bulletin - June 2024](https://source.android.com/docs/security/bulletin/2024-06-01)
+- contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)) in [Android Security Bulletin - October 2024](https://source.android.com/docs/security/bulletin/2024-10-01)
 
 
 (This list may be out of sync. Search "canyie" in [Android acknowledgements](https://source.android.com/docs/security/overview/acknowledgements) for all!)
