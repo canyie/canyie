@@ -11,6 +11,8 @@ Bugs:
 
 (This list may be out of sync. Search "canyie" in [Android acknowledgements](https://source.android.com/docs/security/overview/acknowledgements) for all!)
 
+As of 2024/10/08 I am currently ranked #83 in the world on the [Google Bug Hunters platform](https://bughunters.google.com/profile/3497d4e9-5612-4155-a861-dd1f97509949) and #17 in the Android program.
+
 <!--
 Discussion Group:
 - QQ Group: 949888394
