@@ -1,12 +1,11 @@
-A 20 y.o. first year university student (also a former secondary vocational school student) from China.
+A 20 y.o. sophomore (also a former secondary vocational school student) from China.
 
 Blog: https://blog.canyie.top/
 <!-- 
 Telegram channel: [@CanyieChannel](https://t.me/CanyieChannel) -->
 
 Bugs: 
-- [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318) in [Android Security Bulletin - June 2024](https://source.android.com/docs/security/bulletin/2024-06-01)
-- contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)) in [Android Security Bulletin - October 2024](https://source.android.com/docs/security/bulletin/2024-10-01)
+- Android: [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318), contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)), [CVE-2024-43080](https://nvd.nist.gov/vuln/detail/CVE-2024-43080), [CVE-2024-43081](https://nvd.nist.gov/vuln/detail/CVE-2024-43081), [CVE-2024-43088](https://nvd.nist.gov/vuln/detail/CVE-2024-43088), [CVE-2024-43090](https://nvd.nist.gov/vuln/detail/CVE-2024-43090)
 
 
 (This list may be out of sync. Search "canyie" in [Android acknowledgements](https://source.android.com/docs/security/overview/acknowledgements) for all!)
