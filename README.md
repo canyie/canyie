@@ -4,13 +4,17 @@ Blog: https://blog.canyie.top/
 <!-- 
 Telegram channel: [@CanyieChannel](https://t.me/CanyieChannel) -->
 
-Bugs: 
-- Android: [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318), contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)), [CVE-2024-43080](https://nvd.nist.gov/vuln/detail/CVE-2024-43080), [CVE-2024-43081](https://nvd.nist.gov/vuln/detail/CVE-2024-43081), [CVE-2024-43088](https://nvd.nist.gov/vuln/detail/CVE-2024-43088), [CVE-2024-43090](https://nvd.nist.gov/vuln/detail/CVE-2024-43090)
+Bugs & Vulnerabilities: 
+- Android: contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)), [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318), [CVE-2024-43080](https://nvd.nist.gov/vuln/detail/CVE-2024-43080), [CVE-2024-43081](https://nvd.nist.gov/vuln/detail/CVE-2024-43081), [CVE-2024-43088](https://nvd.nist.gov/vuln/detail/CVE-2024-43088), [CVE-2024-43090](https://nvd.nist.gov/vuln/detail/CVE-2024-43090), [CVE-2024-43762](https://nvd.nist.gov/vuln/detail/CVE-2024-43762), [CVE-2024-49733](https://nvd.nist.gov/vuln/detail/CVE-2024-49733), [CVE-2024-49741](https://nvd.nist.gov/vuln/detail/CVE-2024-49741), [CVE-2024-49744](https://nvd.nist.gov/vuln/detail/CVE-2024-49744), [CVE-2025-0100](https://nvd.nist.gov/vuln/detail/CVE-2025-0100)
 
 
 (This list may be out of sync. Search "canyie" in [Android acknowledgements](https://source.android.com/docs/security/overview/acknowledgements) for all!)
 
-As of 2024/10/12 I am currently ranked #76 in the world on the [Google Bug Hunters platform](https://bughunters.google.com/profile/3497d4e9-5612-4155-a861-dd1f97509949) and #17 in the Android program.
+Acknowledgements & Rankings:
+- As of 2025/01/01 I am currently ranked #55 in the world on the entire [Google Bug Hunters platform](https://bughunters.google.com/profile/3497d4e9-5612-4155-a861-dd1f97509949), #11 in the 2024 year, and #10 in the entire Android Program.
+- Nickname "canyie" on [Android Security Acknowledgements](https://source.android.com/docs/security/overview/acknowledgements), [Google Bug Hunters Leaderboard](https://bughunters.google.com/leaderboard), and [Xiaomi Security Center](https://sec.xiaomi.com/#/hero)
+
+<img src="google-bughunters-2024-rank.jpg" alt="2024 Ranking" width="640" height="281">
 
 <!--
 Discussion Group:
