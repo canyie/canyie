@@ -11,10 +11,10 @@ Bugs & Vulnerabilities:
 (This list may be out of sync. Search "canyie" in [Android acknowledgements](https://source.android.com/docs/security/overview/acknowledgements) for all!)
 
 Acknowledgements & Rankings:
-- As of 2025/01/01 I am currently ranked #55 in the world on the entire [Google Bug Hunters platform](https://bughunters.google.com/profile/3497d4e9-5612-4155-a861-dd1f97509949), #11 in the 2024 year, and #10 in the entire Android Program.
+- As of 2025/01/26 I am currently ranked #43 in the world on the entire [Google Bug Hunters platform](https://bughunters.google.com/profile/3497d4e9-5612-4155-a861-dd1f97509949), #6 in the 2024 year, and #10 in the entire Android Program.
 - Nickname "canyie" on [Android Security Acknowledgements](https://source.android.com/docs/security/overview/acknowledgements), [Google Bug Hunters Leaderboard](https://bughunters.google.com/leaderboard), and [Xiaomi Security Center](https://sec.xiaomi.com/#/hero)
 
-<img src="google-bughunters-2024-rank.jpg" alt="2024 Ranking" width="640" height="281">
+<img src="google-bughunters-2024-ranking.jpg" alt="2024 Ranking" width="640" height="281">
 
 <!--
 Discussion Group:
