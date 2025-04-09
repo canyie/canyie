@@ -5,13 +5,14 @@ Blog: https://blog.canyie.top/
 Telegram channel: [@CanyieChannel](https://t.me/CanyieChannel) -->
 
 Bugs & Vulnerabilities: 
-- Android: contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)), [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318), [CVE-2024-43080](https://nvd.nist.gov/vuln/detail/CVE-2024-43080), [CVE-2024-43081](https://nvd.nist.gov/vuln/detail/CVE-2024-43081), [CVE-2024-43088](https://nvd.nist.gov/vuln/detail/CVE-2024-43088), [CVE-2024-43090](https://nvd.nist.gov/vuln/detail/CVE-2024-43090), [CVE-2024-43762](https://nvd.nist.gov/vuln/detail/CVE-2024-43762), [CVE-2024-49733](https://nvd.nist.gov/vuln/detail/CVE-2024-49733), [CVE-2024-49741](https://nvd.nist.gov/vuln/detail/CVE-2024-49741), [CVE-2024-49743](https://nvd.nist.gov/vuln/detail/CVE-2024-49743), [CVE-2024-49744](https://nvd.nist.gov/vuln/detail/CVE-2024-49744), [CVE-2025-0100](https://nvd.nist.gov/vuln/detail/CVE-2025-0100)
+- Android: contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)), [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318), [CVE-2024-43080](https://nvd.nist.gov/vuln/detail/CVE-2024-43080), [CVE-2024-43081](https://nvd.nist.gov/vuln/detail/CVE-2024-43081), [CVE-2024-43088](https://nvd.nist.gov/vuln/detail/CVE-2024-43088), [CVE-2024-43090](https://nvd.nist.gov/vuln/detail/CVE-2024-43090), [CVE-2024-43762](https://nvd.nist.gov/vuln/detail/CVE-2024-43762), [CVE-2024-49733](https://nvd.nist.gov/vuln/detail/CVE-2024-49733), [CVE-2024-49741](https://nvd.nist.gov/vuln/detail/CVE-2024-49741), [CVE-2024-49743](https://nvd.nist.gov/vuln/detail/CVE-2024-49743), [CVE-2024-49744](https://nvd.nist.gov/vuln/detail/CVE-2024-49744), [CVE-2025-0100](https://nvd.nist.gov/vuln/detail/CVE-2025-0100), [CVE-2025-22432](https://nvd.nist.gov/vuln/detail/CVE-2025-22432)
+- Huawei: [CVE-2025-31175](https://nvd.nist.gov/vuln/detail/CVE-2025-31175)
 
 
 (This list may be out of sync. Search "canyie" in [Android acknowledgements](https://source.android.com/docs/security/overview/acknowledgements) for all!)
 
 Acknowledgements & Rankings:
-- As of 2025/02/24 I am currently ranked #40 in the world on the entire [Google Bug Hunters platform](https://bughunters.google.com/profile/3497d4e9-5612-4155-a861-dd1f97509949), #7 in the 2024 year, and #7 in the entire Android Program.
+- As of 2025/04/09 I am currently ranked #35 in the world on the entire [Google Bug Hunters platform](https://bughunters.google.com/profile/3497d4e9-5612-4155-a861-dd1f97509949), #7 in the 2024 year, and #6 in the entire Android Program.
 - Nickname "canyie" on [Android Security Acknowledgements](https://source.android.com/docs/security/overview/acknowledgements), [Google Bug Hunters Leaderboard](https://bughunters.google.com/leaderboard), [Xiaomi Security Center](https://sec.xiaomi.com/#/hero), and [Huawei Bug Bounty Program](https://bugbounty.huawei.com/hbp/#/ranking)
 
 <img src="google-bughunters-2024-ranking.jpg" alt="2024 Ranking" width="640" height="281">
