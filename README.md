@@ -1,15 +1,21 @@
-A 20 y.o. sophomore (also a former secondary vocational school student) from China. **Expected to be unavailable in a short period due to health issues.**
+A 21 y.o. sophomore (also a former secondary vocational school student) from China. **Expected to be unavailable in a short period due to health issues.**
 
 Blog: https://blog.canyie.top/
 <!-- 
 Telegram channel: [@CanyieChannel](https://t.me/CanyieChannel) -->
 
 Bugs & Vulnerabilities: 
-- Android: contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)), [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318), [CVE-2024-43080](https://nvd.nist.gov/vuln/detail/CVE-2024-43080), [CVE-2024-43081](https://nvd.nist.gov/vuln/detail/CVE-2024-43081), [CVE-2024-43088](https://nvd.nist.gov/vuln/detail/CVE-2024-43088), [CVE-2024-43090](https://nvd.nist.gov/vuln/detail/CVE-2024-43090), [CVE-2024-43762](https://nvd.nist.gov/vuln/detail/CVE-2024-43762), [CVE-2024-49733](https://nvd.nist.gov/vuln/detail/CVE-2024-49733), [CVE-2024-49741](https://nvd.nist.gov/vuln/detail/CVE-2024-49741), [CVE-2024-49743](https://nvd.nist.gov/vuln/detail/CVE-2024-49743), [CVE-2024-49744](https://nvd.nist.gov/vuln/detail/CVE-2024-49744), [CVE-2025-0100](https://nvd.nist.gov/vuln/detail/CVE-2025-0100), [CVE-2025-22432](https://nvd.nist.gov/vuln/detail/CVE-2025-22432), [CVE-2025-26464](https://nvd.nist.gov/vuln/detail/CVE-2025-26464), [CVE-2025-32323](https://nvd.nist.gov/vuln/detail/CVE-2025-32323), [CVE-2025-48524](https://nvd.nist.gov/vuln/detail/CVE-2025-48524)
+- Android: contributed to [CVE-2024-0044](https://nvd.nist.gov/vuln/detail/CVE-2024-0044) ([PoC & writeup](https://github.com/canyie/CVE-2024-0044)), [CVE-2024-31318](https://nvd.nist.gov/vuln/detail/CVE-2024-31318), [CVE-2024-43080](https://nvd.nist.gov/vuln/detail/CVE-2024-43080), [CVE-2024-43081](https://nvd.nist.gov/vuln/detail/CVE-2024-43081), [CVE-2024-43088](https://nvd.nist.gov/vuln/detail/CVE-2024-43088), [CVE-2024-43090](https://nvd.nist.gov/vuln/detail/CVE-2024-43090), [CVE-2024-43762](https://nvd.nist.gov/vuln/detail/CVE-2024-43762), [CVE-2024-49733](https://nvd.nist.gov/vuln/detail/CVE-2024-49733), [CVE-2024-49741](https://nvd.nist.gov/vuln/detail/CVE-2024-49741), [CVE-2024-49743](https://nvd.nist.gov/vuln/detail/CVE-2024-49743), [CVE-2024-49744](https://nvd.nist.gov/vuln/detail/CVE-2024-49744), [CVE-2025-0100](https://nvd.nist.gov/vuln/detail/CVE-2025-0100), [CVE-2025-22432](https://nvd.nist.gov/vuln/detail/CVE-2025-22432), [CVE-2025-26464](https://nvd.nist.gov/vuln/detail/CVE-2025-26464), [CVE-2025-32323](https://nvd.nist.gov/vuln/detail/CVE-2025-32323), [CVE-2025-48524](https://nvd.nist.gov/vuln/detail/CVE-2025-48524), [CVE-2025-48545](https://nvd.nist.gov/vuln/detail/CVE-2025-48545)
 - Huawei: [CVE-2025-31175](https://nvd.nist.gov/vuln/detail/CVE-2025-31175)
 
 
 (This list may be out of sync. Search "canyie" in [Android acknowledgements](https://source.android.com/docs/security/overview/acknowledgements) for all!)
+
+Research Outputs:
+- Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android <br>
+*The 32nd ACM Conference on Computer and Communications Security (ACM CCS 2025)*
+
+Also see my blog which contains many informal research articles.
 
 Acknowledgements & Rankings:
 - As of 2025/06/28 I am currently ranked #23 in the world on the entire [Google Bug Hunters platform](https://bughunters.google.com/profile/3497d4e9-5612-4155-a861-dd1f97509949), #7 in the 2024 year, and #4 in the entire Android Program.
